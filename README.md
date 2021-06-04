@@ -58,7 +58,7 @@ If one GPU will be out of memory, you can change the ```--n_blocks``` and  ```--
 
 Citation
 
-If you find MINet useful for your research, please consider citing the following papers:
+If you find DONet useful for your research, please consider citing the following papers:
 
 ```
 @inproceedings{feng2021DONet,
