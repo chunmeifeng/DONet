@@ -24,15 +24,6 @@ conda install tqdm
 conda install opencv
 ```
 
-## Project Structure
-DONet
-  ├──README.md
-  ├──code
-    ├──data_preparation
-    └──model
-  ├──experiment
-  └──results
-
 ## Dataset and Prepartion
 All data that we used for our experiments are released at GLOBUS(https://app.globus.org/file-manager?origin_id=15c7de28-a76b-11e9-821c-02b7a92d8e58&origin_path=%2F).
 Before training, we recommend you to process data into ```.tfrecords``` to accelerate the progress.  File ```./data_preparation/data2tfrecords.py``` specifies the route of data processing.
